@@ -1,0 +1,71 @@
+[{
+    "id": 1,
+    "nombre": "Pizza de Muzzarella",
+    "descripcion":"Salsa - Muzzarella - Aceitunas verdes",
+    "foto":"./imagenes/pizzaMuzza.jpg",
+    "precio": 1550
+},
+{
+    "id": 2,
+    "nombre": "Tomate y huevo ",
+    "descripcion":"Salsa -Jamón - Muzzarella - Tomates en rodajas- Huevo duro rallado",
+    "foto": "./imagenes/pizzaTomateYHuevo.webp",
+    "precio": 1750
+},
+{
+    "id": 3,
+    "nombre": "Cantimpalo",
+    "descripcion":"Salsa - Muzzarella -Cantimpalo",
+    "foto": "./imagenes/pizzaCantimpalo.jpg",
+    "precio": 1950
+},
+{
+    "id": 4,
+    "nombre": "Roquefort",
+    "descripcion":"Salsa - Muzzarella - Roquefort",
+    "foto": "./imagenes/pizzaRoquefort.jpg",
+    "precio": 2000
+},
+{
+    "id": 5,
+    "nombre": "Panceta y huevo",
+    "descripcion":"Salsa - Muzzarella - Panceta ahumada- Huevos Fritos",
+    "foto": "./imagenes/pizzaPancetaYHuevo.jpg",   
+    "precio" : 2400
+},
+{
+    "id" : 6,
+    "nombre" : "Palmitos",
+    "descripcion":"Salsa -Jamón- Muzzarella - Palmitos - Salsa Golf",
+    "foto": "./imagenes/pizzaPalmitos.jpg",
+    "precio": 2100
+},
+{
+    "id" : 7,
+    "nombre" : "Provenzal",
+    "descripcion":"Aceite de Oliva - Muzzarella - Provenzal",
+    "foto": "./imagenes/pizzaProvenzal.jpg",
+    "precio": 2000
+},
+{
+    "id" : 8,
+    "nombre" : "Jamon Crudo y Rucula",
+    "descripcion":"Aceite de Oliva - Muzzarella - Jamón Crudo - Rucula - Queso Rallado",
+    "foto": "./imagenes/pizzaJamonCrudo.webp",
+    "precio": 2400
+},
+{
+    "id" : 9,
+    "nombre" : "Anana",
+    "descripcion":"Salsa - Muzzarella - Jamón Cocido- Ananá",
+    "foto": "./imagenes/pizzaProvenzal.jpg",
+    "precio": 2350
+},
+{
+    "id" : 10,
+    "nombre" : "Berenjena",
+    "descripcion":"Aceite de Oliva - Muzzarella - Berenjenas al escabeche",
+    "foto": "./imagenes/pizzaBerenjena.jpg",
+    "precio": 2000
+}
+]
